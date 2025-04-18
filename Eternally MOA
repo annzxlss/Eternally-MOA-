@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Eternally MOA</title>
+  <style>
+    body {
+      background: linear-gradient(to bottom right, #c5ffe3, #ffe1f0);
+      font-family: 'Arial', sans-serif;
+      color: #333;
+      margin: 0;
+      padding: 20px;
+      text-align: center;
+    }
+    h1 {
+      color: #ff66a8;
+      font-size: 2.5em;
+    }
+    p {
+      font-size: 1.2em;
+      margin-bottom: 40px;
+    }
+    .member {
+      background: white;
+      border-radius: 16px;
+      box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+      padding: 20px;
+      margin: 20px auto;
+      max-width: 500px;
+    }
+    .member h2 {
+      color: #2eb38f;
+    }
+  </style>
+</head>
+<body>
+  <h1>Eternally MOA</h1>
+  <p>Bem-vindo ao fã-site dedicado ao TXT e à era Temptation!</p>
+
+  <div class="member">
+    <h2>SOOBIN</h2>
+    <p>Líder calmo, doce e sempre cuidando dos outros membros.</p>
+  </div>
+
+  <div class="member">
+    <h2>YEONJUN</h2>
+    <p>Ícone fashion, cheio de energia e presença de palco marcante.</p>
+  </div>
+
+  <div class="member">
+    <h2>BEOMGYU</h2>
+    <p>Divertido, carismático e com um lado sentimental escondido.</p>
+  </div>
+
+  <div class="member">
+    <h2>TAEHYUN</h2>
+    <p>Inteligente, focado e com vocais poderosos.</p>
+  </div>
+
+  <div class="member">
+    <h2>HUENINGKAI</h2>
+    <p>Fofo, engraçado e com uma energia única no grupo.</p>
+  </div>
+</body>
+</html>
